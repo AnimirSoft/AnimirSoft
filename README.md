@@ -1,6 +1,6 @@
 ### Developer by Animir 
 
-- <img src="https://img.shields.io/badge/Kotlin-Main-blue?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-Main-green?logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-sub-black?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-Sub-yellow?logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/PHP-Sub-orange?logo=php&logoColor=white">
+- <img src="https://img.shields.io/badge/Kotlin-Main-puble?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-Main-green?logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-sub-blu?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-Sub-yellow?logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/PHP-Sub-orange?logo=php&logoColor=white">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animirsoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
