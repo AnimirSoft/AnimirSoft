@@ -8,7 +8,8 @@
 ![Animir github stats](https://github-readme-stats.vercel.app/api?username=animirsoft&show_icons=true)
 
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnimirSoft&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/iris1756able)](https://www.youtube.com/user/iris1756able)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnimirSoft&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![Youtube Badge](https://img.shields.io/badge/MY_VLOG-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/iris1756able)](https://www.youtube.com/user/iris1756able) [![Youtube Badge](https://img.shields.io/badge/Music_Traveler-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@user-zk2nh4vw8n)](https://www.youtube.com/@user-zk2nh4vw8n)
+
 
 
 
